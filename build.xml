@@ -63,7 +63,7 @@
             debug="true" 
             destdir="${test.dest}" 
             srcdir="${test.src}" 
-            target="1.9" 
+            target="1.5" 
             classpath="${test.classpath}"
         >
         </javac>
